@@ -1,0 +1,1 @@
+# Extract pose keypoints from video using MediaPipe or similar

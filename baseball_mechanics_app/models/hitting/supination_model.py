@@ -1,0 +1,1 @@
+# Detect hitter forearm rotation

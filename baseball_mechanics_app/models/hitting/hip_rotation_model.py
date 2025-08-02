@@ -1,0 +1,1 @@
+# Measure hip rotation angles for hitters
